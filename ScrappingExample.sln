@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrappingExample", "ScrappingExample\ScrappingExample.csproj", "{876C700B-522D-41D2-BB24-37BE44627E24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DummyStore", "DummyStore\DummyStore.csproj", "{8C64522A-613A-4472-BA56-440C58BEE198}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{876C700B-522D-41D2-BB24-37BE44627E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{876C700B-522D-41D2-BB24-37BE44627E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{876C700B-522D-41D2-BB24-37BE44627E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{876C700B-522D-41D2-BB24-37BE44627E24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C64522A-613A-4472-BA56-440C58BEE198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C64522A-613A-4472-BA56-440C58BEE198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C64522A-613A-4472-BA56-440C58BEE198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C64522A-613A-4472-BA56-440C58BEE198}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

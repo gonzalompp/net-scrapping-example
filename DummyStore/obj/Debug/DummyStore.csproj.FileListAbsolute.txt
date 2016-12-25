@@ -1,0 +1,5 @@
+C:\Users\samsung1\Documents\Visual Studio 2012\Projects\ScrappingExample\DummyStore\bin\DummyStore.dll
+C:\Users\samsung1\Documents\Visual Studio 2012\Projects\ScrappingExample\DummyStore\bin\DummyStore.pdb
+C:\Users\samsung1\Documents\Visual Studio 2012\Projects\ScrappingExample\DummyStore\obj\Debug\DummyStore.dll
+C:\Users\samsung1\Documents\Visual Studio 2012\Projects\ScrappingExample\DummyStore\obj\Debug\DummyStore.pdb
+C:\Users\samsung1\Documents\Visual Studio 2012\Projects\ScrappingExample\DummyStore\obj\Debug\DummyStore.csprojResolveAssemblyReference.cache
